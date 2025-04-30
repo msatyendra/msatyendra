@@ -12,7 +12,7 @@
 
 ## How I Use GitHub
 
-- 🚀 Utilizing GitHub for academic and personal projects, including the OBD device.
+- 🚀 Utilizing GitHub for academic and personal projects.
 - 🌐 Contributing to open-source projects and collaborating with the global developer community.
 
 ## Connect with Me
